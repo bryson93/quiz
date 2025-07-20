@@ -1,0 +1,654 @@
+{
+  "Philippine_Quiz": [
+    {
+      "category": "History",
+      "questions": [
+        {
+          "question": "Who is the national hero of the Philippines?",
+          "choices": ["Andres Bonifacio", "Jose Rizal", "Emilio Aguinaldo", "Lapu-Lapu"],
+          "correct_answer": "Jose Rizal",
+          "explanation": "Jose Rizal is recognized as the national hero for his writings that inspired the Philippine Revolution."
+        },
+        {
+          "question": "In what year did the Philippines gain independence from Spain?",
+          "choices": ["1896", "1898", "1946", "1965"],
+          "correct_answer": "1898",
+          "explanation": "The Philippines declared independence from Spain on June 12, 1898."
+        },
+        {
+          "question": "Who led the first recorded resistance against Spanish colonization?",
+          "choices": ["Andres Bonifacio", "Lapu-Lapu", "Emilio Aguinaldo", "Gregorio del Pilar"],
+          "correct_answer": "Lapu-Lapu",
+          "explanation": "Lapu-Lapu defeated Ferdinand Magellan in the Battle of Mactan (1521)."
+        },
+        {
+          "question": "What was the first Philippine republic?",
+          "choices": ["Malolos Republic", "Biak-na-Bato Republic", "First Philippine Republic", "Commonwealth Government"],
+          "correct_answer": "First Philippine Republic",
+          "explanation": "Established in 1899 with Emilio Aguinaldo as president."
+        },
+        {
+          "question": "Which event marked the end of Spanish rule in the Philippines?",
+          "choices": ["Cry of Pugad Lawin", "Treaty of Paris", "Battle of Manila Bay", "Execution of Rizal"],
+          "correct_answer": "Treaty of Paris",
+          "explanation": "Signed in 1898, transferring the Philippines from Spain to the U.S."
+        },
+        {
+          "question": "Who founded the Katipunan?",
+          "choices": ["Jose Rizal", "Andres Bonifacio", "Emilio Aguinaldo", "Marcelo H. del Pilar"],
+          "correct_answer": "Andres Bonifacio",
+          "explanation": "The Katipunan was a revolutionary society fighting for independence."
+        },
+        {
+          "question": "What was the codename for the WWII Allied liberation of the Philippines?",
+          "choices": ["Operation Overlord", "Operation Market Garden", "Operation Musketeer", "Operation Victor"],
+          "correct_answer": "Operation Victor",
+          "explanation": "Led by General Douglas MacArthur in 1944–1945."
+        },
+        {
+          "question": "Which president declared Martial Law in 1972?",
+          "choices": ["Ferdinand Marcos", "Diosdado Macapagal", "Corazon Aquino", "Ramon Magsaysay"],
+          "correct_answer": "Ferdinand Marcos",
+          "explanation": "Martial Law lasted until 1981, though its effects continued until 1986."
+        },
+        {
+          "question": "Where did the EDSA Revolution take place?",
+          "choices": ["Cebu", "Davao", "Manila", "Baguio"],
+          "correct_answer": "Manila",
+          "explanation": "The 1986 People Power Revolution ousted Marcos."
+        },
+        {
+          "question": "What was the first capital of the Spanish Philippines?",
+          "choices": ["Manila", "Cebu", "Intramuros", "Vigan"],
+          "correct_answer": "Cebu",
+          "explanation": "Miguel López de Legazpi established the first capital in Cebu in 1565."
+        }
+      ]
+    },
+    {
+      "category": "Geography",
+      "questions": [
+        {
+          "question": "What is the largest island in the Philippines?",
+          "choices": ["Luzon", "Mindanao", "Visayas", "Palawan"],
+          "correct_answer": "Luzon",
+          "explanation": "Luzon is the largest island, where Manila, the capital, is located."
+        },
+        {
+          "question": "Which active volcano is known as the 'Perfect Cone'?",
+          "choices": ["Taal", "Mayon", "Pinatubo", "Kanlaon"],
+          "correct_answer": "Mayon",
+          "explanation": "Mayon Volcano in Albay is famous for its symmetrical cone shape."
+        },
+        {
+          "question": "What is the smallest region in the Philippines?",
+          "choices": ["NCR", "CAR", "MIMAROPA", "BARMM"],
+          "correct_answer": "NCR",
+          "explanation": "The National Capital Region (Metro Manila) is the smallest by land area."
+        },
+        {
+          "question": "Which province is known as the 'Rice Granary of the Philippines'?",
+          "choices": ["Bulacan", "Nueva Ecija", "Pampanga", "Isabela"],
+          "correct_answer": "Nueva Ecija",
+          "explanation": "It produces the largest rice yield in the country."
+        },
+        {
+          "question": "What is the longest river in the Philippines?",
+          "choices": ["Pasig River", "Agusan River", "Cagayan River", "Pampanga River"],
+          "correct_answer": "Cagayan River",
+          "explanation": "Located in Northern Luzon, it stretches 505 kilometers."
+        },
+        {
+          "question": "Which Philippine island is famous for the Chocolate Hills?",
+          "choices": ["Bohol", "Palawan", "Samar", "Negros"],
+          "correct_answer": "Bohol",
+          "explanation": "The hills turn brown in dry season, resembling chocolate mounds."
+        },
+        {
+          "question": "What is the deepest trench in the Philippines?",
+          "choices": ["Manila Trench", "Philippine Trench", "Negros Trench", "Sulu Trench"],
+          "correct_answer": "Philippine Trench",
+          "explanation": "It reaches depths of up to 10,540 meters."
+        },
+        {
+          "question": "Which city is known as the 'Summer Capital of the Philippines'?",
+          "choices": ["Baguio", "Tagaytay", "Banaue", "Sagada"],
+          "correct_answer": "Baguio",
+          "explanation": "Its cool climate makes it a popular summer destination."
+        },
+        {
+          "question": "What is the largest lake in the Philippines?",
+          "choices": ["Laguna de Bay", "Taal Lake", "Lake Lanao", "Lake Mainit"],
+          "correct_answer": "Laguna de Bay",
+          "explanation": "It covers 911 square kilometers and borders Metro Manila."
+        },
+        {
+          "question": "Which province is home to the Banaue Rice Terraces?",
+          "choices": ["Benguet", "Ifugao", "Mountain Province", "Kalinga"],
+          "correct_answer": "Ifugao",
+          "explanation": "The terraces are a UNESCO World Heritage Site."
+        }
+      ]
+    },
+    {
+      "category": "Government",
+      "questions": [
+        {
+          "question": "Who is the current president of the Philippines (as of 2024)?",
+          "choices": ["Rodrigo Duterte", "Bongbong Marcos", "Leni Robredo", "Manny Pacquiao"],
+          "correct_answer": "Bongbong Marcos",
+          "explanation": "Ferdinand 'Bongbong' Marcos Jr. became president in June 2022."
+        },
+        {
+          "question": "What is the legislative branch of the Philippines called?",
+          "choices": ["Senate", "Congress", "Parliament", "Assembly"],
+          "correct_answer": "Congress",
+          "explanation": "The Philippine Congress is bicameral, consisting of the Senate and House of Representatives."
+        },
+        {
+          "question": "How many senators are there in the Philippines?",
+          "choices": ["12", "24", "50", "100"],
+          "correct_answer": "24",
+          "explanation": "Senators serve 6-year terms, with half elected every 3 years."
+        },
+        {
+          "question": "Which document serves as the constitution of the Philippines?",
+          "choices": ["Malolos Constitution", "1987 Constitution", "Jones Law", "Tydings-McDuffie Act"],
+          "correct_answer": "1987 Constitution",
+          "explanation": "Ratified after the EDSA Revolution, replacing the 1973 Marcos-era constitution."
+        },
+        {
+          "question": "What is the term limit for a Philippine president?",
+          "choices": ["4 years", "5 years", "6 years", "No term limit"],
+          "correct_answer": "6 years",
+          "explanation": "A president can only serve a single 6-year term."
+        },
+        {
+          "question": "Who was the first female president of the Philippines?",
+          "choices": ["Gloria Macapagal Arroyo", "Corazon Aquino", "Miriam Defensor Santiago", "Imelda Marcos"],
+          "correct_answer": "Corazon Aquino",
+          "explanation": "She became president after the 1986 EDSA Revolution."
+        },
+        {
+          "question": "Which government agency is responsible for elections?",
+          "choices": ["COMELEC", "DILG", "DSWD", "DOJ"],
+          "correct_answer": "COMELEC",
+          "explanation": "The Commission on Elections (COMELEC) oversees electoral processes."
+        },
+        {
+          "question": "What does 'BARMM' stand for?",
+          "choices": ["Bicol Autonomous Region of Muslim Mindanao", "Bangsamoro Autonomous Region in Muslim Mindanao", "Bicol and Romblon Muslim Region", "Batangas Autonomous Region of Muslim Mindanao"],
+          "correct_answer": "Bangsamoro Autonomous Region in Muslim Mindanao",
+          "explanation": "Established in 2019 to replace the ARMM."
+        },
+        {
+          "question": "Which Philippine president signed the Universal Healthcare Law?",
+          "choices": ["Rodrigo Duterte", "Benigno Aquino III", "Gloria Macapagal Arroyo", "Joseph Estrada"],
+          "correct_answer": "Rodrigo Duterte",
+          "explanation": "Signed in 2019, it provides healthcare coverage for all Filipinos."
+        },
+        {
+          "question": "What is the capital of the Philippines?",
+          "choices": ["Manila", "Quezon City", "Makati", "Davao City"],
+          "correct_answer": "Manila",
+          "explanation": "While Metro Manila includes multiple cities, Manila proper is the capital."
+        }
+      ]
+    },
+    {
+      "category": "Culture",
+      "questions": [
+        {
+          "question": "What is the traditional Filipino Christmas lantern called?",
+          "choices": ["Parol", "Taka", "Salakot", "Bakya"],
+          "correct_answer": "Parol",
+          "explanation": "The parol is a star-shaped lantern symbolizing the Star of Bethlehem."
+        },
+        {
+          "question": "Which festival is known for its colorful masks?",
+          "choices": ["Sinulog", "MassKara", "Pahiyas", "Kadayawan"],
+          "correct_answer": "MassKara",
+          "explanation": "The MassKara Festival in Bacolod features smiling masks."
+        },
+        {
+          "question": "What is the traditional Filipino skirt for women?",
+          "choices": ["Baro't Saya", "Tapis", "Malong", "Patadyong"],
+          "correct_answer": "Baro't Saya",
+          "explanation": "A traditional ensemble consisting of a blouse and long skirt."
+        },
+        {
+          "question": "Which Filipino gesture shows respect to elders?",
+          "choices": ["Mano", "Beso", "High Five", "Bow"],
+          "correct_answer": "Mano",
+          "explanation": "Taking an elder's hand and pressing it to one's forehead."
+        },
+        {
+          "question": "What is the traditional Filipino martial art?",
+          "choices": ["Arnis", "Kali", "Eskrima", "All of the above"],
+          "correct_answer": "All of the above",
+          "explanation": "Arnis, Kali, and Eskrima are terms for the same stick-fighting art."
+        },
+        {
+          "question": "Which Filipino folk dance involves balancing glasses?",
+          "choices": ["Tinikling", "Pandanggo sa Ilaw", "Cariñosa", "Singkil"],
+          "correct_answer": "Pandanggo sa Ilaw",
+          "explanation": "Dancers balance oil lamps (or glasses) on their heads and hands."
+        },
+        {
+          "question": "What is the traditional Filipino hat made of rattan?",
+          "choices": ["Salakot", "Bakya", "Barong", "Saya"],
+          "correct_answer": "Salakot",
+          "explanation": "Worn by farmers, it protects against sun and rain."
+        },
+        {
+          "question": "Which Filipino holiday honors the dead?",
+          "choices": ["All Saints' Day", "Christmas", "Holy Week", "New Year's Day"],
+          "correct_answer": "All Saints' Day",
+          "explanation": "Celebrated on November 1, families visit cemeteries to pay respects."
+        },
+        {
+          "question": "What is the traditional Filipino courtship dance?",
+          "choices": ["Tinikling", "Cariñosa", "Pandanggo", "Kuratsa"],
+          "correct_answer": "Cariñosa",
+          "explanation": "A flirtatious dance involving fans and handkerchiefs."
+        },
+        {
+          "question": "Which Filipino tradition involves a midnight feast on Christmas Eve?",
+          "choices": ["Simbang Gabi", "Noche Buena", "Pabasa", "Fiesta"],
+          "correct_answer": "Noche Buena",
+          "explanation": "Families gather for a feast after midnight Mass."
+        }
+      ]
+    },
+    {
+      "category": "Food",
+      "questions": [
+        {
+          "question": "What is the national dish of the Philippines?",
+          "choices": ["Adobo", "Sinigang", "Lechon", "Kare-Kare"],
+          "correct_answer": "Adobo",
+          "explanation": "Adobo, meat marinated in vinegar and soy sauce, is considered the national dish."
+        },
+        {
+          "question": "Which Filipino dessert is made from shaved ice and toppings?",
+          "choices": ["Halo-Halo", "Leche Flan", "Bibingka", "Puto Bumbong"],
+          "correct_answer": "Halo-Halo",
+          "explanation": "Halo-Halo means 'mix-mix' and includes ingredients like ube, leche flan, and beans."
+        },
+        {
+          "question": "What is the sour soup made with tamarind?",
+          "choices": ["Sinigang", "Tinola", "Nilaga", "Pancit"],
+          "correct_answer": "Sinigang",
+          "explanation": "Sinigang is a sour soup often cooked with pork, shrimp, or fish."
+        },
+        {
+          "question": "Which Filipino dish is made from pig's blood?",
+          "choices": ["Dinuguan", "Sisig", "Bopis", "Kare-Kare"],
+          "correct_answer": "Dinuguan",
+          "explanation": "Also called 'chocolate meat,' it's a savory stew of pork blood and offal."
+        },
+        {
+          "question": "What is the Filipino-style barbecue called?",
+          "choices": ["Inihaw", "Lechon", "Tapa", "Longganisa"],
+          "correct_answer": "Inihaw",
+          "explanation": "Skewered meat (often pork or chicken) grilled and basted with a sweet sauce."
+        },
+        {
+          "question": "Which fermented condiment is a staple in Filipino cuisine?",
+          "choices": ["Patis", "Bagoong", "Suka", "Toyomansi"],
+          "correct_answer": "Bagoong",
+          "explanation": "Fermented shrimp or fish paste, often paired with green mangoes or kare-kare."
+        },
+        {
+          "question": "What is the Filipino rice cake wrapped in banana leaves?",
+          "choices": ["Bibingka", "Puto", "Suman", "Kutsinta"],
+          "correct_answer": "Suman",
+          "explanation": "Sticky rice cooked with coconut milk and wrapped in banana leaves."
+        },
+        {
+          "question": "Which noodle dish is a Filipino favorite?",
+          "choices": ["Pancit", "Lomi", "Mami", "Batchoy"],
+          "correct_answer": "Pancit",
+          "explanation": "Stir-fried noodles with vegetables, meat, and soy sauce."
+        },
+        {
+          "question": "What is the Filipino version of spring rolls?",
+          "choices": ["Lumpia", "Empanada", "Siomai", "Turon"],
+          "correct_answer": "Lumpia",
+          "explanation": "Can be fresh (lumpiang sariwa) or fried (lumpiang shanghai)."
+        },
+        {
+          "question": "Which Filipino street food is a fertilized duck egg?",
+          "choices": ["Balut", "Kwek-Kwek", "Isaw", "Betamax"],
+          "correct_answer": "Balut",
+          "explanation": "A boiled duck embryo, often eaten with salt and vinegar."
+        }
+      ]
+    },
+    {
+      "category": "Language",
+      "questions": [
+        {
+          "question": "What does 'Mabuhay' mean?",
+          "choices": ["Thank you", "Hello", "Long live", "Goodbye"],
+          "correct_answer": "Long live",
+          "explanation": "Often used as a greeting, 'Mabuhay' literally means 'to live'."
+        },
+        {
+          "question": "Which language is NOT officially recognized in the Philippines?",
+          "choices": ["Tagalog", "Cebuano", "Ilocano", "Bisaya"],
+          "correct_answer": "Bisaya",
+          "explanation": "Bisaya is a language group, not a single official language."
+        },
+        {
+          "question": "What does 'Kilig' mean?",
+          "choices": ["Hungry", "Romantic excitement", "Tired", "Angry"],
+          "correct_answer": "Romantic excitement",
+          "explanation": "The fluttery feeling when experiencing something romantic."
+        },
+        {
+          "question": "Which word means 'friend' in Tagalog?",
+          "choices": ["Kaibigan", "Kapatid", "Kamag-anak", "Kapitbahay"],
+          "correct_answer": "Kaibigan",
+          "explanation": "'Kapatid' means sibling, 'kamag-anak' means relative, and 'kapitbahay' means neighbor."
+        },
+        {
+          "question": "What is 'Thank you' in Tagalog?",
+          "choices": ["Salamat", "Paalam", "Kamusta", "Oo"],
+          "correct_answer": "Salamat",
+          "explanation": "'Paalam' means goodbye, 'kamusta' means how are you, and 'oo' means yes."
+        },
+        {
+          "question": "Which phrase means 'I love you' in Tagalog?",
+          "choices": ["Mahal kita", "Miss na kita", "Salamat po", "Ingat ka"],
+          "correct_answer": "Mahal kita",
+          "explanation": "Literally translates to 'You are loved by me.'"
+        },
+        {
+          "question": "What does 'Bayanihan' mean?",
+          "choices": ["Festival", "Community spirit", "Traditional dance", "Food"],
+          "correct_answer": "Community spirit",
+          "explanation": "Refers to the tradition of neighbors helping a family move houses."
+        },
+        {
+          "question": "Which word means 'delicious' in Tagalog?",
+          "choices": ["Sarap", "Tamis", "Asim", "Anghang"],
+          "correct_answer": "Sarap",
+          "explanation": "'Tamis' means sweet, 'asim' means sour, and 'anghang' means spicy."
+        },
+        {
+          "question": "What is 'family' in Tagalog?",
+          "choices": ["Pamilya", "Barkada", "Tropa", "Kamag-anak"],
+          "correct_answer": "Pamilya",
+          "explanation": "'Barkada' and 'tropa' mean friend group, while 'kamag-anak' means relatives."
+        },
+        {
+          "question": "Which phrase means 'How are you?' in Tagalog?",
+          "choices": ["Kamusta ka?", "Anong pangalan mo?", "Saan ka pupunta?", "Magkano ito?"],
+          "correct_answer": "Kamusta ka?",
+          "explanation": "The others mean 'What's your name?', 'Where are you going?', and 'How much is this?'"
+        }
+      ]
+    },
+    {
+      "category": "Arts & Literature",
+      "questions": [
+        {
+          "question": "Who wrote the novel 'Noli Me Tangere'?",
+          "choices": ["Andres Bonifacio", "Jose Rizal", "Nick Joaquin", "F. Sionil Jose"],
+          "correct_answer": "Jose Rizal",
+          "explanation": "Rizal's novel exposed Spanish colonial abuses."
+        },
+        {
+          "question": "Which Filipino artist is known for 'Spoliarium'?",
+          "choices": ["Fernando Amorsolo", "Juan Luna", "Carlos Francisco", "Benedicto Cabrera"],
+          "correct_answer": "Juan Luna",
+          "explanation": "The 'Spoliarium' won a gold medal in Madrid in 1884."
+        },
+        {
+          "question": "What is the epic poem of the Maranao people?",
+          "choices": ["Biag ni Lam-ang", "Hudhud", "Darangen", "Ibalon"],
+          "correct_answer": "Darangen",
+          "explanation": "A UNESCO Intangible Cultural Heritage, it consists of 72,000 lines."
+        },
+        {
+          "question": "Who is known as the 'Father of Philippine Cinema'?",
+          "choices": ["Fernando Poe Jr.", "Dolphy", "Gerardo de Leon", "Jose Nepomuceno"],
+          "correct_answer": "Jose Nepomuceno",
+          "explanation": "He produced the first Filipino film, 'Dalagang Bukid' (1919)."
+        },
+        {
+          "question": "Which Filipino writer penned 'The Woman Who Had Two Navels'?",
+          "choices": ["Nick Joaquin", "F. Sionil Jose", "Bienvenido Santos", "N.V.M. Gonzalez"],
+          "correct_answer": "Nick Joaquin",
+          "explanation": "A National Artist for Literature, known for his English-language works."
+        },
+        {
+          "question": "What is the traditional Filipino puppet theater?",
+          "choices": ["Komedya", "Sarswela", "Pasyon", "Senakulo"],
+          "correct_answer": "Komedya",
+          "explanation": "Also called 'Moro-Moro,' it features Christian-Muslim conflicts."
+        },
+        {
+          "question": "Who composed the Philippine national anthem?",
+          "choices": ["Jose Rizal", "Julian Felipe", "Juan Luna", "Andres Bonifacio"],
+          "correct_answer": "Julian Felipe",
+          "explanation": "Composed in 1898, originally titled 'Marcha Nacional Filipina.'"
+        },
+        {
+          "question": "Which Filipino painter is known for rural landscapes?",
+          "choices": ["Juan Luna", "Fernando Amorsolo", "Carlos Francisco", "Victorio Edades"],
+          "correct_answer": "Fernando Amorsolo",
+          "explanation": "Famous for his idyllic depictions of Filipino countryside life."
+        },
+        {
+          "question": "What is the oldest university in the Philippines?",
+          "choices": ["University of Santo Tomas", "University of the Philippines", "Ateneo de Manila", "De La Salle University"],
+          "correct_answer": "University of Santo Tomas",
+          "explanation": "Founded in 1611, it's Asia's oldest existing university."
+        },
+        {
+          "question": "Which Filipino novel is a sequel to 'Noli Me Tangere'?",
+          "choices": ["El Filibusterismo", "Mi Ultimo Adios", "Doctrina Christiana", "Banaag at Sikat"],
+          "correct_answer": "El Filibusterismo",
+          "explanation": "Rizal's second novel, published in 1891."
+        }
+      ]
+    },
+    {
+      "category": "Sports",
+      "questions": [
+        {
+          "question": "Who is the Filipino boxing legend known as 'PacMan'?",
+          "choices": ["Manny Pacquiao", "Nonito Donaire", "Flash Elorde", "Gerry Peñalosa"],
+          "correct_answer": "Manny Pacquiao",
+          "explanation": "Pacquiao is the only 8-division world champion."
+        },
+        {
+          "question": "What is the most popular sport in the Philippines?",
+          "choices": ["Basketball", "Boxing", "Volleyball", "Arnis"],
+          "correct_answer": "Basketball",
+          "explanation": "Introduced by Americans, basketball is widely played nationwide."
+        },
+        {
+          "question": "Who won the Philippines' first Olympic gold medal?",
+          "choices": ["Manny Pacquiao", "Hidilyn Diaz", "Eumir Marcial", "Nesthy Petecio"],
+          "correct_answer": "Hidilyn Diaz",
+          "explanation": "She won in weightlifting (2021 Tokyo Olympics)."
+        },
+        {
+          "question": "Which Filipino athlete is known as 'The Flash'?",
+          "choices": ["Lydia de Vega", "Eric Cray", "Ernest Obiena", "EJ Obiena"],
+          "correct_answer": "Lydia de Vega",
+          "explanation": "A sprint queen in the 1980s, dubbed 'Asia's fastest woman.'"
+        },
+        {
+          "question": "What is the professional basketball league in the Philippines?",
+          "choices": ["PBA", "UAAP", "NCAA", "MPBL"],
+          "correct_answer": "PBA",
+          "explanation": "The Philippine Basketball Association is Asia's first pro league."
+        },
+        {
+          "question": "Which Filipino boxer is known as 'The Filipino Flash'?",
+          "choices": ["Nonito Donaire", "Gerry Peñalosa", "Donnie Nietes", "Johnriel Casimero"],
+          "correct_answer": "Nonito Donaire",
+          "explanation": "A multi-division world champion."
+        },
+        {
+          "question": "What martial art is the Philippines' national sport?",
+          "choices": ["Arnis", "Taekwondo", "Judo", "Kickboxing"],
+          "correct_answer": "Arnis",
+          "explanation": "Declared the national sport in 2009."
+        },
+        {
+          "question": "Which Filipino pole vaulter holds the Asian record?",
+          "choices": ["EJ Obiena", "Hidilyn Diaz", "Ernest Obiena", "Eric Cray"],
+          "correct_answer": "EJ Obiena",
+          "explanation": "He cleared 6.0 meters in 2023."
+        },
+        {
+          "question": "Who was the first Filipino NBA player?",
+          "choices": ["Jordan Clarkson", "Raymond Townsend", "Andray Blatche", "Kobe Paras"],
+          "correct_answer": "Raymond Townsend",
+          "explanation": "Played for the Golden State Warriors in 1978."
+        },
+        {
+          "question": "Which Filipino sport uses a rattan ball?",
+          "choices": ["Sepak Takraw", "Arnis", "Sipa", "Polo"],
+          "correct_answer": "Sepak Takraw",
+          "explanation": "A mix of volleyball and soccer, played with a rattan ball."
+        }
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "questions": [
+        {
+          "question": "What is the world's smallest primate found in the Philippines?",
+          "choices": ["Tarsier", "Philippine Eagle", "Mouse Deer", "Colugo"],
+          "correct_answer": "Tarsier",
+          "explanation": "The Philippine tarsier is one of the smallest primates."
+        },
+        {
+          "question": "Which Philippine bird is the national bird?",
+          "choices": ["Philippine Eagle", "Maya", "Kalangay", "Pithecophaga"],
+          "correct_answer": "Philippine Eagle",
+          "explanation": "Also called the monkey-eating eagle, it's critically endangered."
+        },
+        {
+          "question": "What is the largest flower in the world, found in the Philippines?",
+          "choices": ["Rafflesia", "Waling-waling", "Sampaguita", "Gumamela"],
+          "correct_answer": "Rafflesia",
+          "explanation": "Can grow up to 1 meter in diameter and smells like rotting meat."
+        },
+        {
+          "question": "Which Philippine coral reef is a UNESCO World Heritage Site?",
+          "choices": ["Tubbataha Reef", "Apo Reef", "Honda Bay", "Anilao"],
+          "correct_answer": "Tubbataha Reef",
+          "explanation": "Located in the Sulu Sea, it's a marine biodiversity hotspot."
+        },
+        {
+          "question": "What is the Philippines' largest freshwater crocodile species?",
+          "choices": ["Saltwater Crocodile", "Philippine Crocodile", "American Alligator", "Gharial"],
+          "correct_answer": "Saltwater Crocodile",
+          "explanation": "The 'Lolong' (a saltwater crocodile) was the largest ever captured."
+        },
+        {
+          "question": "Which Philippine fish is known as the 'milkfish'?",
+          "choices": ["Bangus", "Tilapia", "Galunggong", "Tuna"],
+          "correct_answer": "Bangus",
+          "explanation": "The national fish, often grilled or fried."
+        },
+        {
+          "question": "What is the Philippines' most active volcano?",
+          "choices": ["Mayon", "Taal", "Pinatubo", "Kanlaon"],
+          "correct_answer": "Mayon",
+          "explanation": "Erupted over 50 times in the past 400 years."
+        },
+        {
+          "question": "Which Philippine tree is known as the 'rain tree'?",
+          "choices": ["Narra", "Acacia", "Balete", "Molave"],
+          "correct_answer": "Acacia",
+          "explanation": "Its wide canopy provides shade like an umbrella."
+        },
+        {
+          "question": "What is the Philippines' only natural lake with sharks?",
+          "choices": ["Taal Lake", "Laguna de Bay", "Lake Lanao", "Lake Mainit"],
+          "correct_answer": "Taal Lake",
+          "explanation": "Home to the freshwater 'tawilis' sardine and bull sharks."
+        },
+        {
+          "question": "Which Philippine fruit is called the 'poor man's apple'?",
+          "choices": ["Mango", "Banana", "Chico", "Guava"],
+          "correct_answer": "Chico",
+          "explanation": "Also known as sapodilla, it's sweet and affordable."
+        }
+      ]
+    },
+    {
+      "category": "Pop Culture",
+      "questions": [
+        {
+          "question": "Which Filipino actress starred in 'Hello, Love, Goodbye'?",
+          "choices": ["Kathryn Bernardo", "Nadine Lustre", "Liza Soberano", "Anne Curtis"],
+          "correct_answer": "Kathryn Bernardo",
+          "explanation": "The 2019 film became the highest-grossing Philippine movie."
+        },
+        {
+          "question": "What is the longest-running noontime show in the Philippines?",
+          "choices": ["It's Showtime", "Eat Bulaga", "ASAP", "Wowowin"],
+          "correct_answer": "Eat Bulaga",
+          "explanation": "Launched in 1979, it holds the Guinness World Record."
+        },
+        {
+          "question": "Who is known as the 'Queen of Philippine Movies'?",
+          "choices": ["Nora Aunor", "Vilma Santos", "Sharon Cuneta", "Maricel Soriano"],
+          "correct_answer": "Nora Aunor",
+          "explanation": "A multi-awarded actress and singer since the 1960s."
+        },
+        {
+          "question": "Which Filipino boy band rose to fame in the 1990s?",
+          "choices": ["SB19", "Smokey Mountain", "Apo Hiking Society", "BoybandPH"],
+          "correct_answer": "Smokey Mountain",
+          "explanation": "Known for songs like 'Kailan' and 'Tara Tena.'"
+        },
+        {
+          "question": "What is the highest-grossing Filipino film of all time?",
+          "choices": ["Hello, Love, Goodbye", "The Hows of Us", "Four Sisters and a Wedding", "One More Chance"],
+          "correct_answer": "Hello, Love, Goodbye",
+          "explanation": "Earned over ₱880 million worldwide in 2019."
+        },
+        {
+          "question": "Which Filipino celebrity is dubbed 'The Ultimate Multimedia Star'?",
+          "choices": ["Anne Curtis", "Vice Ganda", "Kris Aquino", "Sharon Cuneta"],
+          "correct_answer": "Anne Curtis",
+          "explanation": "An actress, host, and endorser with a massive following."
+        },
+        {
+          "question": "Who is the lead vocalist of the band 'Eraserheads'?",
+          "choices": ["Ely Buendia", "Raimund Marasigan", "Buddy Zabala", "Marcus Adoro"],
+          "correct_answer": "Ely Buendia",
+          "explanation": "The band is iconic for songs like 'Ang Huling El Bimbo.'"
+        },
+        {
+          "question": "Which Filipino actor played 'Darna' in 2022?",
+          "choices": ["Angel Locsin", "Jane de Leon", "Liza Soberano", "Jessy Mendiola"],
+          "correct_answer": "Jane de Leon",
+          "explanation": "She took over the iconic role in the 2022 TV series."
+        },
+        {
+          "question": "What is the name of the Philippines' Eurovision entry in 2024?",
+          "choices": ["Bebot", "Hari ng Tondo", "Paninindigan Kita", "Walang Awa"],
+          "correct_answer": "Bebot",
+          "explanation": "Performed by the hip-hop group 'The Juans.'"
+        },
+        {
+          "question": "Which Filipino director won the Palme d'Or at Cannes?",
+          "choices": ["Lav Diaz", "Brillante Mendoza", "Erik Matti", "Peque Gallaga"],
+          "correct_answer": "Brillante Mendoza",
+          "explanation": "Won for 'Kinatay' (2009)."
+        }
+      ]
+    }
+  ]
+}
